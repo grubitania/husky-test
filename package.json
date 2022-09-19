@@ -11,6 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "husky": "^8.0.0",
-    "svelte": "3.50.1"
+    "svelte": "3.50.1",
+    "node-sass": "7.0.3"
   }
 }
